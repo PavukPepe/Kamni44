@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "U8VM44hCPF+ENdeDx+M/mg+PElQLBYyCvYg0GLY14xoRElCpGDZHaj+TZS1vGZPgjwqwVyoWwoTfAJjPFbsVjQ==",
+  "dgSpecHash": "tkeSv5+G8ZNlqMJBRuOFS4Li6CtpogG9gdy7yt0E0J0XI4rcTZvXqxuwFPg3Wma41eH+Xws94RvYuI9wAoC1cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\savin\\OneDrive\\Рабочий стол\\Kamni44\\Messenger_main\\Messenger_main.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\savin\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\savin\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\savin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }
